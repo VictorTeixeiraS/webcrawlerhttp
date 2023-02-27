@@ -4,7 +4,7 @@
   "description": "Learn HTTP",
   "main": "main.js",
   "scripts": {
-    g
+    
     "start": "node main.js",
     "test": "jest"
   },
