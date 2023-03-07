@@ -25,4 +25,4 @@ test('sortPages null case', () => {
   const actual = sortPages(input)
   const expected = []
   expect(actual).toEqual(expected)
-})
+}
